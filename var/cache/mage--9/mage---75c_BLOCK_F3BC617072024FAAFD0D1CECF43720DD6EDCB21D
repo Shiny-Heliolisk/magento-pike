@@ -1,0 +1,732 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1629440712;s:6:"expire";i:1629527112;s:4:"tags";s:46:"75c_CAT_P,75c_BLOCK_HTML,75c_CAT_P_12,75c_MAGE";}
+        <div class="block widget block-products-list grid">
+                <div class="block-content">
+            <!-- new_products_content_widget_grid-->            <div class="products-grid grid">
+                <ol class="product-items widget-product-grid">
+                                                                <li class="product-item">                        <div class="product-item-info">
+                            <a href="http://localhost/Pike/driven-backpack.html" class="product-item-photo">
+                                
+<span class="product-image-container"
+      style="width:240px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 125%;">
+        <img class="product-image-photo"
+                        src="http://localhost/Pike/pub/media/catalog/product/cache/d5de20e80685bb336b5907632cfc5e44/w/b/wb03-purple-0.jpg"
+            max-width="240"
+            max-height="300"
+            alt="Driven Backpack"/></span>
+</span>
+                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="Driven&#x20;Backpack" href="http://localhost/Pike/driven-backpack.html" class="product-item-link">
+                                        Driven Backpack                                    </a>
+                                </strong>
+                                                                            <div class="product-reviews-summary short">
+                <div class="rating-summary">
+            <span class="label"><span>Rating:</span></span>
+            <div class="rating-result" title="90%">
+                <span style="width:90%"><span>90%</span></span>
+            </div>
+        </div>
+                <div class="reviews-actions">
+            <a class="action view" href="http://localhost/Pike/driven-backpack.html#reviews">2&nbsp;<span>Reviews</span></a>
+        </div>
+    </div>
+                                
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="12" data-price-box="product-id-12">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-12-widget-product-grid"                data-price-amount="36"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$36.00</span></span>
+        </span>
+
+</div>
+                                
+                                                                    <div class="product-item-inner">
+                                        <div class="product-item-actions">
+                                                                                            <div class="actions-primary">
+                                                                                                                                                                    <form data-role="tocart-form" data-product-sku="24-WB03" action="http://localhost/Pike/checkout/cart/add/uenc/aHR0cDovL2xvY2FsaG9zdC9QaWtlLw%2C%2C/product/12/" method="post">
+                                                            <input type="hidden" name="product" value="12">
+                                                            <input type="hidden" name="uenc" value="aHR0cDovL2xvY2FsaG9zdC9QaWtlL2NoZWNrb3V0L2NhcnQvYWRkL3VlbmMvYUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzlRYVd0bEx3JTJDJTJDL3Byb2R1Y3QvMTIv">
+                                                            <input name="form_key" type="hidden" value="7EOjMLE0k5SxlP5K" />                                                            <button type="submit" title="Add&#x20;to&#x20;Cart" class="action tocart primary">
+                                                                <span>Add to Cart</span>
+                                                            </button>
+                                                        </form>
+                                                                                                    </div>
+                                                                                                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                                                                                                                                        <a href="#" data-post='{"action":"http:\/\/localhost\/Pike\/wishlist\/index\/add\/","data":{"product":12,"uenc":"aHR0cDovL2xvY2FsaG9zdC9QaWtlLw,,"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/localhost\/Pike\/catalog\/product_compare\/add\/","data":{"product":"12","uenc":"aHR0cDovL2xvY2FsaG9zdC9QaWtlLw,,"}}' title="Add&#x20;to&#x20;Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                                                                    </div>
+                                    </div>
+                                                            </div>
+                        </div>
+                                                                    </li><li class="product-item">                        <div class="product-item-info">
+                            <a href="http://localhost/Pike/push-it-messenger-bag.html" class="product-item-photo">
+                                
+<span class="product-image-container"
+      style="width:240px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 125%;">
+        <img class="product-image-photo"
+                        src="http://localhost/Pike/pub/media/catalog/product/cache/d5de20e80685bb336b5907632cfc5e44/w/b/wb04-blue-0.jpg"
+            max-width="240"
+            max-height="300"
+            alt="Push It Messenger Bag"/></span>
+</span>
+                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="Push&#x20;It&#x20;Messenger&#x20;Bag" href="http://localhost/Pike/push-it-messenger-bag.html" class="product-item-link">
+                                        Push It Messenger Bag                                    </a>
+                                </strong>
+                                                                            <div class="product-reviews-summary short">
+                <div class="rating-summary">
+            <span class="label"><span>Rating:</span></span>
+            <div class="rating-result" title="67%">
+                <span style="width:67%"><span>67%</span></span>
+            </div>
+        </div>
+                <div class="reviews-actions">
+            <a class="action view" href="http://localhost/Pike/push-it-messenger-bag.html#reviews">3&nbsp;<span>Reviews</span></a>
+        </div>
+    </div>
+                                
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="14" data-price-box="product-id-14">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-14-widget-product-grid"                data-price-amount="45"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$45.00</span></span>
+        </span>
+
+</div>
+                                
+                                                                    <div class="product-item-inner">
+                                        <div class="product-item-actions">
+                                                                                            <div class="actions-primary">
+                                                                                                                                                                    <form data-role="tocart-form" data-product-sku="24-WB04" action="http://localhost/Pike/checkout/cart/add/uenc/aHR0cDovL2xvY2FsaG9zdC9QaWtlLw%2C%2C/product/14/" method="post">
+                                                            <input type="hidden" name="product" value="14">
+                                                            <input type="hidden" name="uenc" value="aHR0cDovL2xvY2FsaG9zdC9QaWtlL2NoZWNrb3V0L2NhcnQvYWRkL3VlbmMvYUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzlRYVd0bEx3JTJDJTJDL3Byb2R1Y3QvMTQv">
+                                                            <input name="form_key" type="hidden" value="7EOjMLE0k5SxlP5K" />                                                            <button type="submit" title="Add&#x20;to&#x20;Cart" class="action tocart primary">
+                                                                <span>Add to Cart</span>
+                                                            </button>
+                                                        </form>
+                                                                                                    </div>
+                                                                                                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                                                                                                                                        <a href="#" data-post='{"action":"http:\/\/localhost\/Pike\/wishlist\/index\/add\/","data":{"product":14,"uenc":"aHR0cDovL2xvY2FsaG9zdC9QaWtlLw,,"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/localhost\/Pike\/catalog\/product_compare\/add\/","data":{"product":"14","uenc":"aHR0cDovL2xvY2FsaG9zdC9QaWtlLw,,"}}' title="Add&#x20;to&#x20;Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                                                                    </div>
+                                    </div>
+                                                            </div>
+                        </div>
+                                                                    </li><li class="product-item">                        <div class="product-item-info">
+                            <a href="http://localhost/Pike/endeavor-daytrip-backpack.html" class="product-item-photo">
+                                
+<span class="product-image-container"
+      style="width:240px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 125%;">
+        <img class="product-image-photo"
+                        src="http://localhost/Pike/pub/media/catalog/product/cache/d5de20e80685bb336b5907632cfc5e44/w/b/wb06-red-0.jpg"
+            max-width="240"
+            max-height="300"
+            alt="Endeavor Daytrip Backpack"/></span>
+</span>
+                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="Endeavor&#x20;Daytrip&#x20;Backpack" href="http://localhost/Pike/endeavor-daytrip-backpack.html" class="product-item-link">
+                                        Endeavor Daytrip Backpack                                    </a>
+                                </strong>
+                                                                            <div class="product-reviews-summary short">
+                <div class="rating-summary">
+            <span class="label"><span>Rating:</span></span>
+            <div class="rating-result" title="73%">
+                <span style="width:73%"><span>73%</span></span>
+            </div>
+        </div>
+                <div class="reviews-actions">
+            <a class="action view" href="http://localhost/Pike/endeavor-daytrip-backpack.html#reviews">3&nbsp;<span>Reviews</span></a>
+        </div>
+    </div>
+                                
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="11" data-price-box="product-id-11">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-11-widget-product-grid"                data-price-amount="33"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$33.00</span></span>
+        </span>
+
+</div>
+                                
+                                                                    <div class="product-item-inner">
+                                        <div class="product-item-actions">
+                                                                                            <div class="actions-primary">
+                                                                                                                                                                    <form data-role="tocart-form" data-product-sku="24-WB06" action="http://localhost/Pike/checkout/cart/add/uenc/aHR0cDovL2xvY2FsaG9zdC9QaWtlLw%2C%2C/product/11/" method="post">
+                                                            <input type="hidden" name="product" value="11">
+                                                            <input type="hidden" name="uenc" value="aHR0cDovL2xvY2FsaG9zdC9QaWtlL2NoZWNrb3V0L2NhcnQvYWRkL3VlbmMvYUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzlRYVd0bEx3JTJDJTJDL3Byb2R1Y3QvMTEv">
+                                                            <input name="form_key" type="hidden" value="7EOjMLE0k5SxlP5K" />                                                            <button type="submit" title="Add&#x20;to&#x20;Cart" class="action tocart primary">
+                                                                <span>Add to Cart</span>
+                                                            </button>
+                                                        </form>
+                                                                                                    </div>
+                                                                                                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                                                                                                                                        <a href="#" data-post='{"action":"http:\/\/localhost\/Pike\/wishlist\/index\/add\/","data":{"product":11,"uenc":"aHR0cDovL2xvY2FsaG9zdC9QaWtlLw,,"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/localhost\/Pike\/catalog\/product_compare\/add\/","data":{"product":"11","uenc":"aHR0cDovL2xvY2FsaG9zdC9QaWtlLw,,"}}' title="Add&#x20;to&#x20;Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                                                                    </div>
+                                    </div>
+                                                            </div>
+                        </div>
+                                                                    </li><li class="product-item">                        <div class="product-item-info">
+                            <a href="http://localhost/Pike/overnight-duffle.html" class="product-item-photo">
+                                
+<span class="product-image-container"
+      style="width:240px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 125%;">
+        <img class="product-image-photo"
+                        src="http://localhost/Pike/pub/media/catalog/product/cache/d5de20e80685bb336b5907632cfc5e44/w/b/wb07-brown-0.jpg"
+            max-width="240"
+            max-height="300"
+            alt="Overnight Duffle"/></span>
+</span>
+                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="Overnight&#x20;Duffle" href="http://localhost/Pike/overnight-duffle.html" class="product-item-link">
+                                        Overnight Duffle                                    </a>
+                                </strong>
+                                                                            <div class="product-reviews-summary short">
+                <div class="rating-summary">
+            <span class="label"><span>Rating:</span></span>
+            <div class="rating-result" title="60%">
+                <span style="width:60%"><span>60%</span></span>
+            </div>
+        </div>
+                <div class="reviews-actions">
+            <a class="action view" href="http://localhost/Pike/overnight-duffle.html#reviews">3&nbsp;<span>Reviews</span></a>
+        </div>
+    </div>
+                                
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="13" data-price-box="product-id-13">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-13-widget-product-grid"                data-price-amount="45"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$45.00</span></span>
+        </span>
+
+</div>
+                                
+                                                                    <div class="product-item-inner">
+                                        <div class="product-item-actions">
+                                                                                            <div class="actions-primary">
+                                                                                                                                                                    <form data-role="tocart-form" data-product-sku="24-WB07" action="http://localhost/Pike/checkout/cart/add/uenc/aHR0cDovL2xvY2FsaG9zdC9QaWtlLw%2C%2C/product/13/" method="post">
+                                                            <input type="hidden" name="product" value="13">
+                                                            <input type="hidden" name="uenc" value="aHR0cDovL2xvY2FsaG9zdC9QaWtlL2NoZWNrb3V0L2NhcnQvYWRkL3VlbmMvYUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzlRYVd0bEx3JTJDJTJDL3Byb2R1Y3QvMTMv">
+                                                            <input name="form_key" type="hidden" value="7EOjMLE0k5SxlP5K" />                                                            <button type="submit" title="Add&#x20;to&#x20;Cart" class="action tocart primary">
+                                                                <span>Add to Cart</span>
+                                                            </button>
+                                                        </form>
+                                                                                                    </div>
+                                                                                                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                                                                                                                                        <a href="#" data-post='{"action":"http:\/\/localhost\/Pike\/wishlist\/index\/add\/","data":{"product":13,"uenc":"aHR0cDovL2xvY2FsaG9zdC9QaWtlLw,,"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/localhost\/Pike\/catalog\/product_compare\/add\/","data":{"product":"13","uenc":"aHR0cDovL2xvY2FsaG9zdC9QaWtlLw,,"}}' title="Add&#x20;to&#x20;Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                                                                    </div>
+                                    </div>
+                                                            </div>
+                        </div>
+                                                                    </li><li class="product-item">                        <div class="product-item-info">
+                            <a href="http://localhost/Pike/fusion-backpack.html" class="product-item-photo">
+                                
+<span class="product-image-container"
+      style="width:240px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 125%;">
+        <img class="product-image-photo"
+                        src="http://localhost/Pike/pub/media/catalog/product/cache/d5de20e80685bb336b5907632cfc5e44/m/b/mb02-gray-0.jpg"
+            max-width="240"
+            max-height="300"
+            alt="Fusion Backpack"/></span>
+</span>
+                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="Fusion&#x20;Backpack" href="http://localhost/Pike/fusion-backpack.html" class="product-item-link">
+                                        Fusion Backpack                                    </a>
+                                </strong>
+                                                                            <div class="product-reviews-summary short">
+                <div class="rating-summary">
+            <span class="label"><span>Rating:</span></span>
+            <div class="rating-result" title="67%">
+                <span style="width:67%"><span>67%</span></span>
+            </div>
+        </div>
+                <div class="reviews-actions">
+            <a class="action view" href="http://localhost/Pike/fusion-backpack.html#reviews">3&nbsp;<span>Reviews</span></a>
+        </div>
+    </div>
+                                
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="6" data-price-box="product-id-6">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-6-widget-product-grid"                data-price-amount="59"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$59.00</span></span>
+        </span>
+
+</div>
+                                
+                                                                    <div class="product-item-inner">
+                                        <div class="product-item-actions">
+                                                                                            <div class="actions-primary">
+                                                                                                                                                                    <form data-role="tocart-form" data-product-sku="24-MB02" action="http://localhost/Pike/checkout/cart/add/uenc/aHR0cDovL2xvY2FsaG9zdC9QaWtlLw%2C%2C/product/6/" method="post">
+                                                            <input type="hidden" name="product" value="6">
+                                                            <input type="hidden" name="uenc" value="aHR0cDovL2xvY2FsaG9zdC9QaWtlL2NoZWNrb3V0L2NhcnQvYWRkL3VlbmMvYUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzlRYVd0bEx3JTJDJTJDL3Byb2R1Y3QvNi8,">
+                                                            <input name="form_key" type="hidden" value="7EOjMLE0k5SxlP5K" />                                                            <button type="submit" title="Add&#x20;to&#x20;Cart" class="action tocart primary">
+                                                                <span>Add to Cart</span>
+                                                            </button>
+                                                        </form>
+                                                                                                    </div>
+                                                                                                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                                                                                                                                        <a href="#" data-post='{"action":"http:\/\/localhost\/Pike\/wishlist\/index\/add\/","data":{"product":6,"uenc":"aHR0cDovL2xvY2FsaG9zdC9QaWtlLw,,"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/localhost\/Pike\/catalog\/product_compare\/add\/","data":{"product":"6","uenc":"aHR0cDovL2xvY2FsaG9zdC9QaWtlLw,,"}}' title="Add&#x20;to&#x20;Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                                                                    </div>
+                                    </div>
+                                                            </div>
+                        </div>
+                                                                    </li><li class="product-item">                        <div class="product-item-info">
+                            <a href="http://localhost/Pike/voyage-yoga-bag.html" class="product-item-photo">
+                                
+<span class="product-image-container"
+      style="width:240px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 125%;">
+        <img class="product-image-photo"
+                        src="http://localhost/Pike/pub/media/catalog/product/cache/d5de20e80685bb336b5907632cfc5e44/w/b/wb01-black-0.jpg"
+            max-width="240"
+            max-height="300"
+            alt="Voyage Yoga Bag"/></span>
+</span>
+                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="Voyage&#x20;Yoga&#x20;Bag" href="http://localhost/Pike/voyage-yoga-bag.html" class="product-item-link">
+                                        Voyage Yoga Bag                                    </a>
+                                </strong>
+                                                                            <div class="product-reviews-summary short">
+                <div class="rating-summary">
+            <span class="label"><span>Rating:</span></span>
+            <div class="rating-result" title="67%">
+                <span style="width:67%"><span>67%</span></span>
+            </div>
+        </div>
+                <div class="reviews-actions">
+            <a class="action view" href="http://localhost/Pike/voyage-yoga-bag.html#reviews">3&nbsp;<span>Reviews</span></a>
+        </div>
+    </div>
+                                
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="8" data-price-box="product-id-8">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-8-widget-product-grid"                data-price-amount="32"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$32.00</span></span>
+        </span>
+
+</div>
+                                
+                                                                    <div class="product-item-inner">
+                                        <div class="product-item-actions">
+                                                                                            <div class="actions-primary">
+                                                                                                                                                                    <form data-role="tocart-form" data-product-sku="24-WB01" action="http://localhost/Pike/checkout/cart/add/uenc/aHR0cDovL2xvY2FsaG9zdC9QaWtlLw%2C%2C/product/8/" method="post">
+                                                            <input type="hidden" name="product" value="8">
+                                                            <input type="hidden" name="uenc" value="aHR0cDovL2xvY2FsaG9zdC9QaWtlL2NoZWNrb3V0L2NhcnQvYWRkL3VlbmMvYUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzlRYVd0bEx3JTJDJTJDL3Byb2R1Y3QvOC8,">
+                                                            <input name="form_key" type="hidden" value="7EOjMLE0k5SxlP5K" />                                                            <button type="submit" title="Add&#x20;to&#x20;Cart" class="action tocart primary">
+                                                                <span>Add to Cart</span>
+                                                            </button>
+                                                        </form>
+                                                                                                    </div>
+                                                                                                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                                                                                                                                        <a href="#" data-post='{"action":"http:\/\/localhost\/Pike\/wishlist\/index\/add\/","data":{"product":8,"uenc":"aHR0cDovL2xvY2FsaG9zdC9QaWtlLw,,"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/localhost\/Pike\/catalog\/product_compare\/add\/","data":{"product":"8","uenc":"aHR0cDovL2xvY2FsaG9zdC9QaWtlLw,,"}}' title="Add&#x20;to&#x20;Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                                                                    </div>
+                                    </div>
+                                                            </div>
+                        </div>
+                                                                    </li><li class="product-item">                        <div class="product-item-info">
+                            <a href="http://localhost/Pike/savvy-shoulder-tote.html" class="product-item-photo">
+                                
+<span class="product-image-container"
+      style="width:240px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 125%;">
+        <img class="product-image-photo"
+                        src="http://localhost/Pike/pub/media/catalog/product/cache/d5de20e80685bb336b5907632cfc5e44/w/b/wb05-red-0.jpg"
+            max-width="240"
+            max-height="300"
+            alt="Savvy Shoulder Tote"/></span>
+</span>
+                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="Savvy&#x20;Shoulder&#x20;Tote" href="http://localhost/Pike/savvy-shoulder-tote.html" class="product-item-link">
+                                        Savvy Shoulder Tote                                    </a>
+                                </strong>
+                                                                            <div class="product-reviews-summary short">
+                <div class="rating-summary">
+            <span class="label"><span>Rating:</span></span>
+            <div class="rating-result" title="80%">
+                <span style="width:80%"><span>80%</span></span>
+            </div>
+        </div>
+                <div class="reviews-actions">
+            <a class="action view" href="http://localhost/Pike/savvy-shoulder-tote.html#reviews">2&nbsp;<span>Reviews</span></a>
+        </div>
+    </div>
+                                
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="10" data-price-box="product-id-10">
+    <span class="special-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <!-- <span class="price-label">Special Price</span> -->
+        <span  id="old-price-10-widget-product-grid"                data-price-amount="24"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$24.00</span></span>
+        </span>
+    </span>
+    <span class="old-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <!-- <span class="price-label">Regular Price</span> -->
+        <span  id="old-price-10-widget-product-grid"                data-price-amount="32"
+        data-price-type="oldPrice"
+        class="price-wrapper "
+    ><span class="price">$32.00</span></span>
+        </span>
+    </span>
+
+</div>
+                                
+                                                                    <div class="product-item-inner">
+                                        <div class="product-item-actions">
+                                                                                            <div class="actions-primary">
+                                                                                                                                                                    <form data-role="tocart-form" data-product-sku="24-WB05" action="http://localhost/Pike/checkout/cart/add/uenc/aHR0cDovL2xvY2FsaG9zdC9QaWtlLw%2C%2C/product/10/" method="post">
+                                                            <input type="hidden" name="product" value="10">
+                                                            <input type="hidden" name="uenc" value="aHR0cDovL2xvY2FsaG9zdC9QaWtlL2NoZWNrb3V0L2NhcnQvYWRkL3VlbmMvYUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzlRYVd0bEx3JTJDJTJDL3Byb2R1Y3QvMTAv">
+                                                            <input name="form_key" type="hidden" value="7EOjMLE0k5SxlP5K" />                                                            <button type="submit" title="Add&#x20;to&#x20;Cart" class="action tocart primary">
+                                                                <span>Add to Cart</span>
+                                                            </button>
+                                                        </form>
+                                                                                                    </div>
+                                                                                                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                                                                                                                                        <a href="#" data-post='{"action":"http:\/\/localhost\/Pike\/wishlist\/index\/add\/","data":{"product":10,"uenc":"aHR0cDovL2xvY2FsaG9zdC9QaWtlLw,,"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/localhost\/Pike\/catalog\/product_compare\/add\/","data":{"product":"10","uenc":"aHR0cDovL2xvY2FsaG9zdC9QaWtlLw,,"}}' title="Add&#x20;to&#x20;Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                                                                    </div>
+                                    </div>
+                                                            </div>
+                        </div>
+                                                                    </li><li class="product-item">                        <div class="product-item-info">
+                            <a href="http://localhost/Pike/impulse-duffle.html" class="product-item-photo">
+                                
+<span class="product-image-container"
+      style="width:240px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 125%;">
+        <img class="product-image-photo"
+                        src="http://localhost/Pike/pub/media/catalog/product/cache/d5de20e80685bb336b5907632cfc5e44/u/b/ub02-black-0.jpg"
+            max-width="240"
+            max-height="300"
+            alt="Impulse Duffle"/></span>
+</span>
+                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="Impulse&#x20;Duffle" href="http://localhost/Pike/impulse-duffle.html" class="product-item-link">
+                                        Impulse Duffle                                    </a>
+                                </strong>
+                                                                            <div class="product-reviews-summary short">
+                <div class="rating-summary">
+            <span class="label"><span>Rating:</span></span>
+            <div class="rating-result" title="80%">
+                <span style="width:80%"><span>80%</span></span>
+            </div>
+        </div>
+                <div class="reviews-actions">
+            <a class="action view" href="http://localhost/Pike/impulse-duffle.html#reviews">3&nbsp;<span>Reviews</span></a>
+        </div>
+    </div>
+                                
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="7" data-price-box="product-id-7">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-7-widget-product-grid"                data-price-amount="74"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$74.00</span></span>
+        </span>
+
+</div>
+                                
+                                                                    <div class="product-item-inner">
+                                        <div class="product-item-actions">
+                                                                                            <div class="actions-primary">
+                                                                                                                                                                    <form data-role="tocart-form" data-product-sku="24-UB02" action="http://localhost/Pike/checkout/cart/add/uenc/aHR0cDovL2xvY2FsaG9zdC9QaWtlLw%2C%2C/product/7/" method="post">
+                                                            <input type="hidden" name="product" value="7">
+                                                            <input type="hidden" name="uenc" value="aHR0cDovL2xvY2FsaG9zdC9QaWtlL2NoZWNrb3V0L2NhcnQvYWRkL3VlbmMvYUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzlRYVd0bEx3JTJDJTJDL3Byb2R1Y3QvNy8,">
+                                                            <input name="form_key" type="hidden" value="7EOjMLE0k5SxlP5K" />                                                            <button type="submit" title="Add&#x20;to&#x20;Cart" class="action tocart primary">
+                                                                <span>Add to Cart</span>
+                                                            </button>
+                                                        </form>
+                                                                                                    </div>
+                                                                                                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                                                                                                                                        <a href="#" data-post='{"action":"http:\/\/localhost\/Pike\/wishlist\/index\/add\/","data":{"product":7,"uenc":"aHR0cDovL2xvY2FsaG9zdC9QaWtlLw,,"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/localhost\/Pike\/catalog\/product_compare\/add\/","data":{"product":"7","uenc":"aHR0cDovL2xvY2FsaG9zdC9QaWtlLw,,"}}' title="Add&#x20;to&#x20;Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                                                                    </div>
+                                    </div>
+                                                            </div>
+                        </div>
+                                                                    </li><li class="product-item">                        <div class="product-item-info">
+                            <a href="http://localhost/Pike/compete-track-tote.html" class="product-item-photo">
+                                
+<span class="product-image-container"
+      style="width:240px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 125%;">
+        <img class="product-image-photo"
+                        src="http://localhost/Pike/pub/media/catalog/product/cache/d5de20e80685bb336b5907632cfc5e44/w/b/wb02-green-0.jpg"
+            max-width="240"
+            max-height="300"
+            alt="Compete Track Tote"/></span>
+</span>
+                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="Compete&#x20;Track&#x20;Tote" href="http://localhost/Pike/compete-track-tote.html" class="product-item-link">
+                                        Compete Track Tote                                    </a>
+                                </strong>
+                                                                            <div class="product-reviews-summary short">
+                <div class="rating-summary">
+            <span class="label"><span>Rating:</span></span>
+            <div class="rating-result" title="70%">
+                <span style="width:70%"><span>70%</span></span>
+            </div>
+        </div>
+                <div class="reviews-actions">
+            <a class="action view" href="http://localhost/Pike/compete-track-tote.html#reviews">2&nbsp;<span>Reviews</span></a>
+        </div>
+    </div>
+                                
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="9" data-price-box="product-id-9">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-9-widget-product-grid"                data-price-amount="32"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$32.00</span></span>
+        </span>
+
+</div>
+                                
+                                                                    <div class="product-item-inner">
+                                        <div class="product-item-actions">
+                                                                                            <div class="actions-primary">
+                                                                                                                                                                    <form data-role="tocart-form" data-product-sku="24-WB02" action="http://localhost/Pike/checkout/cart/add/uenc/aHR0cDovL2xvY2FsaG9zdC9QaWtlLw%2C%2C/product/9/" method="post">
+                                                            <input type="hidden" name="product" value="9">
+                                                            <input type="hidden" name="uenc" value="aHR0cDovL2xvY2FsaG9zdC9QaWtlL2NoZWNrb3V0L2NhcnQvYWRkL3VlbmMvYUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzlRYVd0bEx3JTJDJTJDL3Byb2R1Y3QvOS8,">
+                                                            <input name="form_key" type="hidden" value="7EOjMLE0k5SxlP5K" />                                                            <button type="submit" title="Add&#x20;to&#x20;Cart" class="action tocart primary">
+                                                                <span>Add to Cart</span>
+                                                            </button>
+                                                        </form>
+                                                                                                    </div>
+                                                                                                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                                                                                                                                        <a href="#" data-post='{"action":"http:\/\/localhost\/Pike\/wishlist\/index\/add\/","data":{"product":9,"uenc":"aHR0cDovL2xvY2FsaG9zdC9QaWtlLw,,"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/localhost\/Pike\/catalog\/product_compare\/add\/","data":{"product":"9","uenc":"aHR0cDovL2xvY2FsaG9zdC9QaWtlLw,,"}}' title="Add&#x20;to&#x20;Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                                                                    </div>
+                                    </div>
+                                                            </div>
+                        </div>
+                                                                    </li><li class="product-item">                        <div class="product-item-info">
+                            <a href="http://localhost/Pike/wayfarer-messenger-bag.html" class="product-item-photo">
+                                
+<span class="product-image-container"
+      style="width:240px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 125%;">
+        <img class="product-image-photo"
+                        src="http://localhost/Pike/pub/media/catalog/product/cache/d5de20e80685bb336b5907632cfc5e44/m/b/mb05-black-0.jpg"
+            max-width="240"
+            max-height="300"
+            alt="Wayfarer Messenger Bag"/></span>
+</span>
+                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="Wayfarer&#x20;Messenger&#x20;Bag" href="http://localhost/Pike/wayfarer-messenger-bag.html" class="product-item-link">
+                                        Wayfarer Messenger Bag                                    </a>
+                                </strong>
+                                                                            <div class="product-reviews-summary short">
+                <div class="rating-summary">
+            <span class="label"><span>Rating:</span></span>
+            <div class="rating-result" title="67%">
+                <span style="width:67%"><span>67%</span></span>
+            </div>
+        </div>
+                <div class="reviews-actions">
+            <a class="action view" href="http://localhost/Pike/wayfarer-messenger-bag.html#reviews">3&nbsp;<span>Reviews</span></a>
+        </div>
+    </div>
+                                
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="4" data-price-box="product-id-4">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-4-widget-product-grid"                data-price-amount="45"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$45.00</span></span>
+        </span>
+
+</div>
+                                
+                                                                    <div class="product-item-inner">
+                                        <div class="product-item-actions">
+                                                                                            <div class="actions-primary">
+                                                                                                                                                                    <form data-role="tocart-form" data-product-sku="24-MB05" action="http://localhost/Pike/checkout/cart/add/uenc/aHR0cDovL2xvY2FsaG9zdC9QaWtlLw%2C%2C/product/4/" method="post">
+                                                            <input type="hidden" name="product" value="4">
+                                                            <input type="hidden" name="uenc" value="aHR0cDovL2xvY2FsaG9zdC9QaWtlL2NoZWNrb3V0L2NhcnQvYWRkL3VlbmMvYUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzlRYVd0bEx3JTJDJTJDL3Byb2R1Y3QvNC8,">
+                                                            <input name="form_key" type="hidden" value="7EOjMLE0k5SxlP5K" />                                                            <button type="submit" title="Add&#x20;to&#x20;Cart" class="action tocart primary">
+                                                                <span>Add to Cart</span>
+                                                            </button>
+                                                        </form>
+                                                                                                    </div>
+                                                                                                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                                                                                                                                        <a href="#" data-post='{"action":"http:\/\/localhost\/Pike\/wishlist\/index\/add\/","data":{"product":4,"uenc":"aHR0cDovL2xvY2FsaG9zdC9QaWtlLw,,"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/localhost\/Pike\/catalog\/product_compare\/add\/","data":{"product":"4","uenc":"aHR0cDovL2xvY2FsaG9zdC9QaWtlLw,,"}}' title="Add&#x20;to&#x20;Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                                                                    </div>
+                                    </div>
+                                                            </div>
+                        </div>
+                        </li>                                    </ol>
+            </div>
+                    </div>
+    </div>
+    <script>
+        require([
+            'jquery',
+            'slick'
+        ], function($) {
+            jQuery(document).ready(function() {
+                jQuery(".product-items").slick({
+                    dots: true,
+                    infinite: true,
+                    speed: 300,
+                    slidesToShow: 5,
+                    slidesToScroll: 1,
+                    responsive: [{
+                            breakpoint: 1280,
+                            settings: {
+                                slidesToShow: 3,
+                                slidesToScroll: 3
+                            }
+                        },
+                        {
+                            breakpoint: 768,
+                            settings: {
+                                slidesToShow: 2,
+                                slidesToScroll: 2
+                            }
+                        },
+                        {
+                            breakpoint: 600,
+                            settings: {
+                                slidesToShow: 1,
+                                slidesToScroll: 1
+                            }
+                        }
+                    ]
+                });
+            });
+        });
+    </script>

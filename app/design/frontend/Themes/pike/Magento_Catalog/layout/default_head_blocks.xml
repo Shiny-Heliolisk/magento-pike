@@ -1,0 +1,6 @@
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <head>
+        
+        <script type="text/javascript" src="http://localhost/Pike/pub/static/_VERSION_/_requirejs/frontend/_YOUR_VENDOR_/_YOUR_THEME_/en_US/requirejs-config.js"></script>
+    </head>
+</page>
